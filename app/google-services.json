@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "978492262325",
+    "firebase_url": "https://charapp-67e92.firebaseio.com",
+    "project_id": "charapp-67e92",
+    "storage_bucket": "charapp-67e92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978492262325:android:bbe32ec837db18be",
+        "android_client_info": {
+          "package_name": "com.example.mousun.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978492262325-f8sdu6ss0ka5bfjlrvdbh4c1p039842g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mousun.chatapp",
+            "certificate_hash": "93b2cc2de9671932cbccf21a23a05f5022ae528f"
+          }
+        },
+        {
+          "client_id": "978492262325-7l8bt7cjqmajo97e80hu0qdj46eja32q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAugnh_uDa50PI5I9eD0BU6-iUfi9KVCuk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978492262325-7l8bt7cjqmajo97e80hu0qdj46eja32q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
